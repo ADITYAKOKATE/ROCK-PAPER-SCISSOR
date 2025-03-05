@@ -34,3 +34,6 @@ A simple and interactive Rock, Paper, Scissors game built using HTML, CSS, and J
  3. 📄 Paper beats Rock 🪨
 
 Check your score and see if you can outsmart the computer!
+
+## Screenshots
+<img src="Screenshot 2025-03-05 124123.png" width="500"><img src="Screenshot 2025-03-05 124136.png" width="500">
